@@ -1,0 +1,33 @@
+[
+    {
+        "nombre": "Roger riendo",
+        "imagen": "imagenes/roger.jpg",
+        "tags": [
+            "roger",
+            "riendo",
+            "risa",
+            "laugh tale",
+            "rey pirata"
+        ]
+    },
+    {
+        "nombre": "Gear 5",
+        "imagen": "imagenes/gear5.jpg",
+        "tags": [
+            "luffy",
+            "gear 5",
+            "nika",
+            "despertar"
+        ]
+    },
+    {
+        "nombre": "Zoro vs King",
+        "imagen": "imagenes/zoro.jpg",
+        "tags": [
+            "zoro",
+            "king",
+            "batalla",
+            "wano"
+        ]
+    }
+]
