@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Roger riendo",
-        "imagen": "imagenes/roger.jpg",
+        "imagen": "roger.jpg",
         "tags": [
             "roger",
             "riendo",
@@ -12,7 +12,7 @@
     },
     {
         "nombre": "Gear 5",
-        "imagen": "imagenes/gear5.jpg",
+        "imagen": "gear5.jpg",
         "tags": [
             "luffy",
             "gear 5",
@@ -22,7 +22,7 @@
     },
     {
         "nombre": "Zoro vs King",
-        "imagen": "imagenes/zoro.jpg",
+        "imagen": "zoro.jpg",
         "tags": [
             "zoro",
             "king",
