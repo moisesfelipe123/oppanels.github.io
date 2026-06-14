@@ -71,5 +71,51 @@
             "techo",
             "castillo"
         ]
+    },
+    {
+        "nombre": "Los sueños de un hombre",
+        "imagen": "kurohige.jpg"
+        "tags": [
+            "luffy",
+            "zoro",
+            "nami",
+            "kurohige",
+            "barbanegra",
+            "barba negra",
+            "jaya",
+            "skypiea",
+            "frase",
+            "los sueños de un hombre jamas mueren"
+        ]
+    },
+    {
+        "nombre": "Sombra de luffy",
+        "imagen": "luffysombra.jpg"
+        "tags": [
+            "luffy",
+            "sombra gigante",
+            "jaya",
+            "mont blanc cricket",
+            "ciudad de oro",
+            "jaya",
+            "skypiea",
+            "hey chico asi que la ciudad de oro esta alla arriba huh gracias por decirnos"
+        ]
+    },
+    {
+        "nombre": "Luffy contra Usopp",
+        "imagen": "usopp.jpg"
+        "tags": [
+            "luffy",
+            "usopp",
+            "pelea",
+            "combate",
+            "versus",
+            "luffy vs usopp",
+            "water seven",
+            "luffy versus usopp",
+            "usopp vs luffy",
+            "usopp enfrenta a luffy"
+        ]
     }
 ]
