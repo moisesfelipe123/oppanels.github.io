@@ -37,7 +37,39 @@
             "pre timeskip",
             "no volvere a perder ante nadie",
             "baratie",
-            "canoa"
+            "canoa",
+            "east blue"
+        ]
+    },
+    {
+        "nombre": "Nami pide ayuda",
+        "imagen": "namiayuda.jpg",
+        "tags": [
+            "nami",
+            "ayuda",
+            "herido",
+            "pre timeskip",
+            "ayudame",
+            "arlong park",
+            "cocoyashi",
+            "conomi",
+            "east blue"
+        ]
+    }
+    {
+        "nombre": "Voluntad irrompible",
+        "imagen": "banderahiruluk.jpg",
+        "tags": [
+            "luffy",
+            "bandera",
+            "hiruluk",
+            "ves",
+            "esta bandera nunca va a ser destruida",
+            "drum",
+            "grand line",
+            "tejado",
+            "techo",
+            "castillo"
         ]
     }
 ]
