@@ -117,5 +117,37 @@
             "usopp vs luffy",
             "usopp enfrenta a luffy"
         ]
+    },
+    {
+        "nombre": "Segunda Marcha",
+        "imagen": "gear2.jpg",
+        "tags": [
+            "luffy",
+            "gear 2",
+            "transformacion",
+            "enies lobby",
+            "water seven",
+            "luffy vs blueno",
+            "combate",
+            "luffy versus blueno",
+            "388",
+            "gia sekando"
+        ]
     }
+    {
+        "nombre": "Quiero vivir",
+        "imagen": "nicorobin.jpg",
+        "tags": [
+            "nicorobin",
+            "enies lobby",
+            "water seven",
+            "nico robin",
+            "robin",
+            "quiero vivir",
+            "buster call",
+            "emotional",
+            "398",
+            "pirata"
+        ]
+    } 
 ]
