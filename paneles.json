@@ -343,5 +343,22 @@
             "485",
             "sangre"
         ]
+    },
+    {
+        "nombre": "Despedida a Vivi",
+        "imagen": "imagenes/vivi.jpg",
+        "tags": [
+            "zoro",
+            "luffy",
+            "sanji",
+            "usopp",
+            "nami",
+            "chopper",
+            "going merry go",
+            "equis",
+            "X",
+            "arabasta"
+            "despedida"
+        ]
     } 
 ]
