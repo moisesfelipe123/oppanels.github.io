@@ -149,9 +149,9 @@
             "398",
             "pirata"
         ]
-    } ,
+    },
     {
-        "nombre": "La muerte de ace",
+        "nombre": "La muerte de Ace",
         "imagen": "ace.jpg",
         "tags": [
             "ace",
@@ -164,6 +164,184 @@
             "sombrero de paja",
             "574",
             "herido"
+        ]
+    },
+    {
+        "nombre": "La muerte de Barbablanca",
+        "imagen": "barbablanca.jpg",
+        "tags": [
+            "barbablanca",
+            "shirohige",
+            "edward newgate",
+            "muerte de barbablanca",
+            "marineford",
+            "muerto",
+            "pirata",
+            "aun cuando sabia que moriria jamas se rindio aun cuando perdio la mitad de su cara el continuo derribando a sus enemigos si es que algo queda claro es que ese hombre fue un monstruo en esta batalla recibio 267 estocadas su cuerpo fue impactado por 562 balas y resistio en pie el impacto de 46 balas de cañon",
+            "576",
+            "herido"
+        ]
+    },
+    {
+        "nombre": "Quinta Marcha",
+        "imagen": "gear5.jpg",
+        "tags": [
+            "wano",
+            "luffy",
+            "onigashima",
+            "gear 5",
+            "transformacion",
+            "risa",
+            "monkey d luffy",
+            "despertar",
+            "1044",
+            "luffy vs kaido"
+        ]
+    },
+    {
+        "nombre": "Luffy se lamenta",
+        "imagen": "luffy.jpg",
+        "tags": [
+            "sabaody",
+            "luffy",
+            "archipielago sabaody",
+            "luffy vs kuma",
+            "mugiwaras vs kuma",
+            "no he podido ni salvar a uno de mis nakamas",
+            "luffy llora",
+            "triste",
+            "574",
+            "marineford"
+        ]
+    },
+    {
+        "nombre": "Luffy se da cuenta",
+        "imagen": "luffy2.jpg",
+        "tags": [
+            "zoro",
+            "luffy",
+            "nami",
+            "usopp",
+            "brook",
+            "franky",
+            "robin",
+            "chopper",
+            "sanji",
+            "marineford",
+            "luffy llora",
+            "triste",
+            "vendaje",
+            "herido",
+            "tengo a mi tripulacion",
+            "590"
+        ]
+    },
+    {
+        "nombre": "Luffy inicia su viaje",
+        "imagen": "luffy3.jpg",
+        "tags": [
+            "canoa",
+            "luffy",
+            "barco",
+            "romance dawn",
+            "sere el rey de los piratas",
+            "sin tripulacion de embarga en un pequeño bote y asi comienza su gran viaje",
+            "pirata",
+            "sombrero de paja",
+            "1",
+            "inicio",
+            "east blue"
+        ]
+    },
+    {
+        "nombre": "El fin de Merry",
+        "imagen": "merry.jpg",
+        "tags": [
+            "luffy",
+            "zoro",
+            "usopp",
+            "sogeking",
+            "chopper",
+            "sanji",
+            "franky",
+            "robin",
+            "430",
+            "herido",
+            "fuego",
+            "incinerar",
+            "bote",
+            "barco",
+            "canoa",
+            "nami",
+            "kokoro",
+            "gonbe",
+            "chimney",
+            "despedida",
+            "going merry go",
+            "merry",
+            "nieve",
+            "triste",
+            "water seven",
+            "enies lobby",
+            "pero fui muy feliz"
+        ]
+    },
+    {
+        "nombre": "Luffy Vs Rob Lucci",
+        "imagen": "roblucci.jpg",
+        "tags": [
+            "luffy",
+            "rob lucci",
+            "lucci",
+            "luffy contra rob lucci",
+            "luffy vs rob lucci",
+            "gatoringu",
+            "pirata",
+            "cp9",
+            "cipher pol",
+            "herido",
+            "transformacion",
+            "enies lobby",
+            "water seven",
+            "427",
+            "gatling gun",
+            "gear 2",
+            "gear second",
+            "zoan",
+            "neko neko no mi: modelo leopardo",
+            "forma hibrida"
+        ]
+    },
+    {
+        "nombre": "Shanks detiene la guerra",
+        "imagen": "shanks.jpg",
+        "tags": [
+            "shanks",
+            "sombrero de paja",
+            "marineford",
+            "akagami",
+            "he venido a ponerle fin a esta guerra",
+            "sombrero de paja",
+            "pirata",
+            "guerra de marineford",
+            "579",
+            "alto"
+        ]
+    },
+    {
+        "nombre": "Aqui no paso nada",
+        "imagen": "zoro2.jpg",
+        "tags": [
+            "zoro",
+            "herido",
+            "thriller bark",
+            "aqui no ha pasado nada",
+            "aqui no paso nada",
+            "sacrificio",
+            "pirata",
+            "dolor",
+            "485",
+            "sangre"
         ]
     } 
 ]
