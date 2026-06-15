@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Roger riendo",
-        "imagen": "roger.jpg",
+        "imagen": "imagenes/roger.jpg",
         "tags": [
             "roger",
             "riendo",
@@ -12,7 +12,7 @@
     },
     {
         "nombre": "Shanks le da el sombrero a luffy",
-        "imagen": "shankssombrero.jpg",
+        "imagen": "imagenes/shankssombrero.jpg",
         "tags": [
             "luffy",
             "shanks",
@@ -29,7 +29,7 @@
     },
     {
         "nombre": "La promesa de zoro",
-        "imagen": "zoro.jpg",
+        "imagen": "imagenes/zoro.jpg",
         "tags": [
             "zoro",
             "promesa",
@@ -43,7 +43,7 @@
     },
     {
         "nombre": "Nami pide ayuda",
-        "imagen": "namiayuda.jpg",
+        "imagen": "imagenes/namiayuda.jpg",
         "tags": [
             "nami",
             "ayuda",
@@ -58,7 +58,7 @@
     },
     {
         "nombre": "Voluntad irrompible",
-        "imagen": "banderahiruluk.jpg",
+        "imagen": "imagenes/banderahiruluk.jpg",
         "tags": [
             "luffy",
             "bandera",
@@ -74,7 +74,7 @@
     },
     {
         "nombre": "Los sueños de un hombre",
-        "imagen": "kurohige.jpg",
+        "imagen": "imagenes/kurohige.jpg",
         "tags": [
             "luffy",
             "zoro",
@@ -90,7 +90,7 @@
     },
     {
         "nombre": "Sombra de luffy",
-        "imagen": "luffysombra.jpg",
+        "imagen": "imagenes/luffysombra.jpg",
         "tags": [
             "luffy",
             "sombra gigante",
@@ -104,7 +104,7 @@
     },
     {
         "nombre": "Luffy contra Usopp",
-        "imagen": "usopp.jpg",
+        "imagen": "imagenes/usopp.jpg",
         "tags": [
             "luffy",
             "usopp",
@@ -120,7 +120,7 @@
     },
     {
         "nombre": "Segunda Marcha",
-        "imagen": "gear2.jpg",
+        "imagen": "imagenes/gear2.jpg",
         "tags": [
             "luffy",
             "gear 2",
@@ -136,7 +136,7 @@
     },
     {
         "nombre": "Quiero vivir",
-        "imagen": "nicorobin.jpg",
+        "imagen": "imagenes/nicorobin.jpg",
         "tags": [
             "nicorobin",
             "enies lobby",
@@ -152,7 +152,7 @@
     },
     {
         "nombre": "La muerte de Ace",
-        "imagen": "ace.jpg",
+        "imagen": "imagenes/ace.jpg",
         "tags": [
             "ace",
             "luffy",
@@ -168,7 +168,7 @@
     },
     {
         "nombre": "La muerte de Barbablanca",
-        "imagen": "barbablanca.jpg",
+        "imagen": "imagenes/barbablanca.jpg",
         "tags": [
             "barbablanca",
             "shirohige",
@@ -184,7 +184,7 @@
     },
     {
         "nombre": "Quinta Marcha",
-        "imagen": "gear5.jpg",
+        "imagen": "imagenes/gear5.jpg",
         "tags": [
             "wano",
             "luffy",
@@ -200,7 +200,7 @@
     },
     {
         "nombre": "Luffy se lamenta",
-        "imagen": "luffy.jpg",
+        "imagen": "imagenes/luffy.jpg",
         "tags": [
             "sabaody",
             "luffy",
@@ -216,7 +216,7 @@
     },
     {
         "nombre": "Luffy se da cuenta",
-        "imagen": "luffy2.jpg",
+        "imagen": "imagenes/luffy2.jpg",
         "tags": [
             "zoro",
             "luffy",
@@ -238,7 +238,7 @@
     },
     {
         "nombre": "Luffy inicia su viaje",
-        "imagen": "luffy3.jpg",
+        "imagen": "imagenes/luffy3.jpg",
         "tags": [
             "canoa",
             "luffy",
@@ -255,7 +255,7 @@
     },
     {
         "nombre": "El fin de Merry",
-        "imagen": "merry.jpg",
+        "imagen": "imagenes/merry.jpg",
         "tags": [
             "luffy",
             "zoro",
@@ -288,7 +288,7 @@
     },
     {
         "nombre": "Luffy Vs Rob Lucci",
-        "imagen": "roblucci.jpg",
+        "imagen": "imagenes/roblucci.jpg",
         "tags": [
             "luffy",
             "rob lucci",
@@ -314,7 +314,7 @@
     },
     {
         "nombre": "Shanks detiene la guerra",
-        "imagen": "shanks.jpg",
+        "imagen": "imagenes/shanks.jpg",
         "tags": [
             "shanks",
             "sombrero de paja",
@@ -330,7 +330,7 @@
     },
     {
         "nombre": "Aqui no paso nada",
-        "imagen": "zoro2.jpg",
+        "imagen": "imagenes/zoro2.jpg",
         "tags": [
             "zoro",
             "herido",
