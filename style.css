@@ -9,12 +9,21 @@ body{
     padding: 10px;
 }
 
+#resultados {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 20px;
+    max-width: 1400px;
+    margin: 20px auto;
+}
+
 .panel{
-    margin: 20px;
+    margin: 0;
 }
 
 .panel img{
     width: 300px;
+    max-width: 100%;
 }
 
 .boton-about {
