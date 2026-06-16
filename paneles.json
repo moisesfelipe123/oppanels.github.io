@@ -9,7 +9,7 @@
         "imagen": "imagenes/shankssombrero.jpg",
         "tags": ["luffy", "shanks", "flashback", "foosha", "dawn", "child", "straw", "hat", "younkou", "te dejo mi sombrero", "guardamelo"]
     },
-        {
+    {
         "nombre": "La promesa de zoro",
         "imagen": "imagenes/zoro.jpg",
         "tags": ["zoro", "promesa", "herido", "pre timeskip", "no volvere a perder ante nadie", "baratie", "canoa", "east blue"]
@@ -107,5 +107,10 @@
     {
         "nombre": "Luffy salva a Ace con conquistador",
         "imagen": "imagenes/ace569.jpg",
-        "tags": ["ace", "sengoku", "marine", "marines", "pirata", "marineford", "guerra de marineford", "moby dick", "haki del conquistador", "haoshoku haki", "luffy", "569", "ejecucion", "cadenas", "tatuaje de barbablanca",
+        "tags": ["ace", "sengoku", "marine", "marines", "pirata", "marineford", "guerra de marineford", "moby dick", "haki del conquistador", "haoshoku haki", "luffy", "569", "ejecucion", "cadenas", "tatuaje de barbablanca"]
+    },
+    {
+        "nombre": "El One Piece existe",
+        "imagen": "imagenes/barbablanca576.jpg",
+        "tags": ["publico", "multitud", "sabaody", "ciudad", "transmision", "barbablanca", "one piece", "el one piece existe", "archipielago", "marineford", "guerra de marineford", "shirohige", "edward newgate", "ultimas palabras"]
 ]
