@@ -112,6 +112,11 @@
     {
         "nombre": "El One Piece existe",
         "imagen": "imagenes/barbablanca576.jpg",
-        "tags": ["publico", "multitud", "sabaody", "ciudad", "transmision", "barbablanca", "one piece", "el one piece existe", "archipielago", "marineford", "guerra de marineford", "shirohige", "edward newgate", "ultimas palabras"]
+        "tags": ["publico", "multitud", "sabaody", "ciudad", "transmision", "barbablanca", "one piece", "el one piece existe", "archipielago", "marineford", "guerra de marineford", "shirohige", "edward newgate", "ultimas palabras", "576"]
+    },
+    {
+        "nombre": "Barbanegra usa 2 frutas",
+        "imagen": "imagenes/barbanegra577.jpg",
+        "tags": ["barbanegra", "kurohige", "marshall d teach", "marineford", "guerra de marineford", "yami yami no mi", "fruta del diablo", "gura gura no mi", "zehahahaha con el poder de la oscuridad de convertir el todo en la nada y el poder de los terremotos que lo destruyen todo ahora soy invencible ahora soy el hombre mas fuerte", "577"]
     }
 ]
