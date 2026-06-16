@@ -2,364 +2,106 @@
     {
         "nombre": "Roger riendo",
         "imagen": "imagenes/roger.jpg",
-        "tags": [
-            "roger",
-            "riendo",
-            "risa",
-            "laugh tale",
-            "rey pirata"
-        ]
+        "tags": ["roger", "riendo", "risa", "laugh tale", "rey pirata"]
     },
     {
         "nombre": "Shanks le da el sombrero a luffy",
         "imagen": "imagenes/shankssombrero.jpg",
-        "tags": [
-            "luffy",
-            "shanks",
-            "flashback",
-            "foosha",
-            "dawn",
-            "child",
-            "straw",
-            "hat",
-            "younkou",
-            "te dejo mi sombrero",
-            "guardamelo"
-        ]
+        "tags": ["luffy", "shanks", "flashback", "foosha", "dawn", "child", "straw", "hat", "younkou", "te dejo mi sombrero", "guardamelo"]
     },
-    {
+        {
         "nombre": "La promesa de zoro",
         "imagen": "imagenes/zoro.jpg",
-        "tags": [
-            "zoro",
-            "promesa",
-            "herido",
-            "pre timeskip",
-            "no volvere a perder ante nadie",
-            "baratie",
-            "canoa",
-            "east blue"
-        ]
+        "tags": ["zoro", "promesa", "herido", "pre timeskip", "no volvere a perder ante nadie", "baratie", "canoa", "east blue"]
     },
     {
         "nombre": "Nami pide ayuda",
         "imagen": "imagenes/namiayuda.jpg",
-        "tags": [
-            "nami",
-            "ayuda",
-            "herido",
-            "pre timeskip",
-            "ayudame",
-            "arlong park",
-            "cocoyashi",
-            "conomi",
-            "east blue"
-        ]
+        "tags": ["nami", "ayuda", "herido", "pre timeskip", "ayudame", "arlong park", "cocoyashi", "conomi", "east blue"]
     },
     {
         "nombre": "Voluntad irrompible",
         "imagen": "imagenes/banderahiruluk.jpg",
-        "tags": [
-            "luffy",
-            "bandera",
-            "hiruluk",
-            "ves",
-            "esta bandera nunca va a ser destruida",
-            "drum",
-            "grand line",
-            "tejado",
-            "techo",
-            "castillo"
-        ]
+        "tags": ["luffy", "bandera", "hiruluk", "ves", "esta bandera nunca va a ser destruida", "drum", "grand line", "tejado", "techo", "castillo"]
     },
     {
         "nombre": "Los sueños de un hombre",
         "imagen": "imagenes/kurohige.jpg",
-        "tags": [
-            "luffy",
-            "zoro",
-            "nami",
-            "kurohige",
-            "barbanegra",
-            "barba negra",
-            "jaya",
-            "skypiea",
-            "frase",
-            "los sueños de un hombre jamas mueren"
-        ]
+        "tags": ["luffy", "zoro", "nami", "kurohige", "barbanegra", "barba negra", "jaya", "skypiea", "frase", "los sueños de un hombre jamas mueren"]
     },
     {
         "nombre": "Sombra de luffy",
         "imagen": "imagenes/luffysombra.jpg",
-        "tags": [
-            "luffy",
-            "sombra gigante",
-            "jaya",
-            "mont blanc cricket",
-            "ciudad de oro",
-            "jaya",
-            "skypiea",
-            "hey chico asi que la ciudad de oro esta alla arriba huh gracias por decirnos"
-        ]
+        "tags": ["luffy", "sombra gigante", "jaya", "mont blanc cricket", "ciudad de oro", "jaya", "skypiea", "hey chico asi que la ciudad de oro esta alla arriba huh gracias por decirnos"]
     },
     {
         "nombre": "Luffy contra Usopp",
         "imagen": "imagenes/usopp.jpg",
-        "tags": [
-            "luffy",
-            "usopp",
-            "pelea",
-            "combate",
-            "versus",
-            "luffy vs usopp",
-            "water seven",
-            "luffy versus usopp",
-            "usopp vs luffy",
-            "usopp enfrenta a luffy"
-        ]
+        "tags": ["luffy", "usopp", "pelea", "combate", "versus", "luffy vs usopp", "water seven", "luffy versus usopp", "usopp vs luffy", "usopp enfrenta a luffy"]
     },
     {
         "nombre": "Segunda Marcha",
         "imagen": "imagenes/gear2.jpg",
-        "tags": [
-            "luffy",
-            "gear 2",
-            "transformacion",
-            "enies lobby",
-            "water seven",
-            "luffy vs blueno",
-            "combate",
-            "luffy versus blueno",
-            "388",
-            "gia sekando"
-        ]
+        "tags": ["luffy", "gear 2", "transformacion", "enies lobby", "water seven", "luffy vs blueno", "combate", "luffy versus blueno", "388", "gia sekando"]
     },
     {
         "nombre": "Quiero vivir",
         "imagen": "imagenes/nicorobin.jpg",
-        "tags": [
-            "nicorobin",
-            "enies lobby",
-            "water seven",
-            "nico robin",
-            "robin",
-            "quiero vivir",
-            "buster call",
-            "emotional",
-            "398",
-            "pirata"
-        ]
+        "tags": ["nicorobin", "enies lobby", "water seven", "nico robin", "robin", "quiero vivir", "buster call", "emotional", "398", "pirata"]
     },
     {
         "nombre": "La muerte de Ace",
         "imagen": "imagenes/ace.jpg",
-        "tags": [
-            "ace",
-            "luffy",
-            "marineford",
-            "muerte de ace",
-            "ultimas palabras",
-            "gracias por haberme querido",
-            "pirata",
-            "sombrero de paja",
-            "574",
-            "herido"
-        ]
+        "tags": ["ace", "luffy", "marineford", "muerte de ace", "ultimas palabras", "gracias por haberme querido", "pirata", "sombrero de paja", "574", "herido"]
     },
     {
         "nombre": "La muerte de Barbablanca",
         "imagen": "imagenes/barbablanca.jpg",
-        "tags": [
-            "barbablanca",
-            "shirohige",
-            "edward newgate",
-            "muerte de barbablanca",
-            "marineford",
-            "muerto",
-            "pirata",
-            "aun cuando sabia que moriria jamas se rindio aun cuando perdio la mitad de su cara el continuo derribando a sus enemigos si es que algo queda claro es que ese hombre fue un monstruo en esta batalla recibio 267 estocadas su cuerpo fue impactado por 562 balas y resistio en pie el impacto de 46 balas de cañon",
-            "576",
-            "herido"
-        ]
+        "tags": ["barbablanca", "shirohige", "edward newgate", "muerte de barbablanca", "marineford", "muerto", "pirata", "aun cuando sabia que moriria jamas se rindio aun cuando perdio la mitad de su cara el continuo derribando a sus enemigos si es que algo queda claro es que ese hombre fue un monstruo en esta batalla recibio 267 estocadas su cuerpo fue impactado por 562 balas y resistio en pie el impacto de 46 balas de cañon", "576", "herido"]
     },
     {
         "nombre": "Quinta Marcha",
         "imagen": "imagenes/gear5.jpg",
-        "tags": [
-            "wano",
-            "luffy",
-            "onigashima",
-            "gear 5",
-            "transformacion",
-            "risa",
-            "monkey d luffy",
-            "despertar",
-            "1044",
-            "luffy vs kaido"
-        ]
+        "tags": ["wano", "luffy", "onigashima", "gear 5", "transformacion", "risa", "monkey d luffy", "despertar", "1044", "luffy vs kaido"]
     },
     {
         "nombre": "Luffy se lamenta",
         "imagen": "imagenes/luffy.jpg",
-        "tags": [
-            "sabaody",
-            "luffy",
-            "archipielago sabaody",
-            "luffy vs kuma",
-            "mugiwaras vs kuma",
-            "no he podido ni salvar a uno de mis nakamas",
-            "luffy llora",
-            "triste",
-            "574",
-            "marineford"
-        ]
+        "tags": ["sabaody", "luffy", "archipielago sabaody", "luffy vs kuma", "mugiwaras vs kuma", "no he podido ni salvar a uno de mis nakamas", "luffy llora", "triste", "574", "marineford"]
     },
     {
         "nombre": "Luffy se da cuenta",
         "imagen": "imagenes/luffy2.jpg",
-        "tags": [
-            "zoro",
-            "luffy",
-            "nami",
-            "usopp",
-            "brook",
-            "franky",
-            "robin",
-            "chopper",
-            "sanji",
-            "marineford",
-            "luffy llora",
-            "triste",
-            "vendaje",
-            "herido",
-            "tengo a mi tripulacion",
-            "590"
-        ]
+        "tags": ["zoro", "luffy", "nami", "usopp", "brook", "franky", "robin", "chopper", "sanji", "marineford", "luffy llora", "triste", "vendaje", "herido", "tengo a mi tripulacion", "590"]
     },
     {
         "nombre": "Luffy inicia su viaje",
         "imagen": "imagenes/luffy3.jpg",
-        "tags": [
-            "canoa",
-            "luffy",
-            "barco",
-            "romance dawn",
-            "sere el rey de los piratas",
-            "sin tripulacion de embarga en un pequeño bote y asi comienza su gran viaje",
-            "pirata",
-            "sombrero de paja",
-            "1",
-            "inicio",
-            "east blue"
-        ]
+        "tags": ["canoa", "luffy", "barco", "romance dawn", "sere el rey de los piratas", "sin tripulacion de embarga en un pequeño bote y asi comienza su gran viaje", "pirata", "sombrero de paja", "1", "inicio", "east blue"]
     },
     {
         "nombre": "El fin de Merry",
         "imagen": "imagenes/merry.jpg",
-        "tags": [
-            "luffy",
-            "zoro",
-            "usopp",
-            "sogeking",
-            "chopper",
-            "sanji",
-            "franky",
-            "robin",
-            "430",
-            "herido",
-            "fuego",
-            "incinerar",
-            "bote",
-            "barco",
-            "canoa",
-            "nami",
-            "kokoro",
-            "gonbe",
-            "chimney",
-            "despedida",
-            "going merry go",
-            "merry",
-            "nieve",
-            "triste",
-            "water seven",
-            "enies lobby",
-            "pero fui muy feliz"
-        ]
+        "tags": ["luffy", "zoro", "usopp", "sogeking", "chopper", "sanji", "franky", "robin", "430", "herido", "fuego", "incinerar", "bote", "barco", "canoa", "nami", "kokoro", "gonbe", "chimney", "despedida", "going merry go", "merry", "nieve", "triste", "water seven", "enies lobby", "pero fui muy feliz"]
     },
     {
         "nombre": "Luffy Vs Rob Lucci",
         "imagen": "imagenes/roblucci.jpg",
-        "tags": [
-            "luffy",
-            "rob lucci",
-            "lucci",
-            "luffy contra rob lucci",
-            "luffy vs rob lucci",
-            "gatoringu",
-            "pirata",
-            "cp9",
-            "cipher pol",
-            "herido",
-            "transformacion",
-            "enies lobby",
-            "water seven",
-            "427",
-            "gatling gun",
-            "gear 2",
-            "gear second",
-            "zoan",
-            "neko neko no mi: modelo leopardo",
-            "forma hibrida"
-        ]
+        "tags": ["luffy", "rob lucci", "lucci", "luffy contra rob lucci", "luffy vs rob lucci", "gatoringu", "pirata", "cp9", "cipher pol", "herido", "transformacion", "enies lobby", "water seven", "427", "gatling gun", "gear 2", "gear second", "zoan", "neko neko no mi: modelo leopardo", "forma hibrida"]
     },
     {
         "nombre": "Shanks detiene la guerra",
         "imagen": "imagenes/shanks.jpg",
-        "tags": [
-            "shanks",
-            "sombrero de paja",
-            "marineford",
-            "akagami",
-            "he venido a ponerle fin a esta guerra",
-            "sombrero de paja",
-            "pirata",
-            "guerra de marineford",
-            "579",
-            "alto"
-        ]
+        "tags": ["shanks", "sombrero de paja", "marineford", "akagami", "he venido a ponerle fin a esta guerra", "sombrero de paja", "pirata", "guerra de marineford", "579", "alto"]
     },
     {
         "nombre": "Aqui no paso nada",
         "imagen": "imagenes/zoro2.jpg",
-        "tags": [
-            "zoro",
-            "herido",
-            "thriller bark",
-            "aqui no ha pasado nada",
-            "aqui no paso nada",
-            "sacrificio",
-            "pirata",
-            "dolor",
-            "485",
-            "sangre"
-        ]
+        "tags": ["zoro", "herido", "thriller bark", "aqui no ha pasado nada", "aqui no paso nada", "sacrificio", "pirata", "dolor", "485", "sangre"]
     },
     {
         "nombre": "Despedida a Vivi",
         "imagen": "imagenes/vivi.jpg",
-        "tags": [
-            "zoro",
-            "luffy",
-            "sanji",
-            "usopp",
-            "nami",
-            "chopper",
-            "going merry go",
-            "equis",
-            "X",
-            "arabasta",
-            "despedida",
-            "216"
-        ]
-    } 
+        "tags": ["zoro", "luffy", "sanji", "usopp", "nami", "chopper", "going merry go", "equis", "X", "arabasta", "despedida", "216"]
+    }
 ]
