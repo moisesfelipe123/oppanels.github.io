@@ -157,6 +157,25 @@
     {
         "nombre": "Garp golpea a marco",
         "imagen": "imagenes/garp567.jpg",
-        "tags": ["marineford", "guerra de marineford", "monkey d garp", "marine", "pirata", "pelea", "combate", "marco", "fenix", "tori tori no mi modelo phoenix", "zoan", "zoan mitologica", "transformacion", "forma completa", "ya basta"]
-    }
+        "tags": ["marineford", "guerra de marineford", "monkey d garp", "marine", "pirata", "pelea", "combate", "marco", "fenix", "tori tori no mi modelo phoenix", "zoan", "zoan mitologica", "transformacion", "forma completa", "ya basta", "567"]
+    },
+    {
+        "nombre": "Tercera Marcha",
+        "imagen": "imagenes/gear3421.jpg",
+        "tags": ["enies lobby", "buster call", "rob lucci", "zoan", "neko neko no mi model tigre", "luffy", "monkey d luffy", "tercera marcha", "gomu gomu no mi", "gear 3", "gear third", "hito hito no mi modelo nika", "giganto pisotoru", "421"]
+    },
+    {
+        "nombre": "Cuarta Marcha",
+        "imagen": "imagenes/gear4784.jpg",
+        "tags": ["dressrosa", "luffy vs doflamingo", "haki de armadura", "busoshoku haki", "gear fourth", "cuarta marcha", "gear 4", "gear 4 boundman", "luffy", "monkey d luffy"]
+    },
+    {
+        "nombre": "Gorosei usa sus frutas",
+        "imagen": "imagenes/gorosei1110.jpg",
+        "tags": ["egghead", "luffy", "gear 5", "quinta marcha", "despertar", "sombrero de paja", "cinco ancianos", "gorosei", "ushi ushi no mi modelo gyuki", "uma uma no mi modelo itsunamde", "hito hito no mi modelo bakotsu", "zou zou no mi modelo hoki", "muki muki no mi modelo sandworm", "san jaygarcia saturn", "san marcus mars", "san ethanbon v nusjuro", "san topman warcury", "san shepherd ju peter", "tenryubito"]
+    },
+    {
+       "nombre": "Imu se sienta en el trono vacio",
+        "imagen": "imagenes/imu908.jpg",
+        "tags": ["reverie", "levely", "saint nerona imu", "gorosei", "cinco ancianos", "san jaygarcia saturn", "san marcus mars", "san ethanbon v nusjuro", "san topman warcury", "san shepherd ju peter", "tenryubito", "trono vacio", "20 espadas", "20 reyes", "castillo de pangea", "mary geoise", "908", "nosotros los cinco ancianos estamos aqui ante usted"]
 ]
